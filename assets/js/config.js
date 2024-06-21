@@ -8,7 +8,9 @@ const talk_speaker_details = {
   'ke': ['Jianwei Yang', './assets/images/talks/jianwei.png', 'Principal Research Scientist', 'Microsoft', 'https://jwyang.github.io/', 'Neural Object Representations for Grasping and Manipulation', ''],
   'ag': ['Xiaolong Wang', './assets/images/talks/xiaolong.jpg', 'Assistant Professor', 'UCSD', 'https://xiaolonw.github.io/', '', ''],
   'wm': ['Yunzhu Li', './assets/images/talks/yunzhu.jpg', 'Assistant Professor', 'Columbia University', 'https://yunzhuli.github.io/', '', ''],
+  'sj': ['Vincent Vanhoucke', './assets/images/talks/vincent.jpg', '', 'Google, Deepmind', 'https://vincent.vanhoucke.com/', 'Nonparametric Belief Propagation: Differentiable, Diagnosable, and Decisive', ''],
   'sj': ['Harold Soh', './assets/images/talks/harold.jpg', '', 'NUS', 'https://haroldsoh.com/', 'Nonparametric Belief Propagation: Differentiable, Diagnosable, and Decisive', ''],
+  'sj': ['David Held', './assets/images/talks/DavidHeld.jpg', '', 'CMU', 'https://davheld.github.io/', 'Nonparametric Belief Propagation: Differentiable, Diagnosable, and Decisive', ''],
 }
 
 const organizers_details = [
