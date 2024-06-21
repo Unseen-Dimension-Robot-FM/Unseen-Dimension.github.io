@@ -1,4 +1,4 @@
-const project_name = `Workshop on Benchmarking For Generalist Robots`
+const project_name = `Workshop on Unseen Dimension of Robotic Foundation Models`
 const proj_small_caps = `<span class="small-caps">NeuRL-RMW</span>: `
 const conference_details = ['CoRL 2024', 'https://www.corl.org/home', 'Muse 5', 'assets/images/corl23_pink_logo.jpg']
 const workshop_date = `November 9, 2024`
