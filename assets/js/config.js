@@ -19,7 +19,7 @@ const organizers_details = [
   ['Helen Yi Ru Wang', 'assets/images/organizers/helen.jpg', 'PhD Student', 'University of Washington', 'https://helen9975.github.io/'],
   ['Wentao Yao', 'assets/images/organizers/wentao.jpg', 'PhD Student', 'University of Washington', 'https://wentaoyuan.github.io/'],
   ['Ishika Singh', 'assets/images/organizers/ishika_singh.jpg', 'PhD Student', 'University of Southern California', 'https://ishikasingh.github.io/'],
-  ['Dieter Fox', 'assets/images/organizers/dieter.png', 'Professor', 'University of Washington', 'https://homes.cs.washington.edu/~fox/'],
+  ['Dieter Fox', 'assets/images/organizers/fox.jpg', 'Professor', 'University of Washington', 'https://homes.cs.washington.edu/~fox/'],
 ]
 
 const accepted_presentations = [
