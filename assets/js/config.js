@@ -15,11 +15,11 @@ const talk_speaker_details = {
 }
 
 const organizers_details = [
-  ['Ishika Singh', 'assets/images/organizers/ishika_singh.jpg', 'PhD Student', 'University of Southern California', 'https://ishikasingh.github.io/'],
   ['Jiafei Duan', 'assets/images/organizers/jiafei_duan.png', 'PhD Student', 'University of Washington', 'https://duanjiafei.com/'],
-  ['Ranjay Krishna', 'assets/images/organizers/ranjay_krishna.png', 'Assistant Professor', 'University of Washington', 'https://www.ranjaykrishna.com/index.html'],
-  ['Yunsheng Tian', 'assets/images/organizers/yunsheng_tian.jpg', 'PhD Student', 'MIT', 'https://www.yunshengtian.com/'],
-  ['Wilbert Pumacay', 'assets/images/organizers/wilbert_pumacay.png', 'MSc Student', 'Universidad Catolica San Pablo', 'https://wpumacay.github.io'],
+  ['Helen Yi Ru Wang', 'assets/images/organizers/helen.jpg', 'PhD Student', 'University of Washington', 'https://helen9975.github.io/'],
+  ['Wentao Yao', 'assets/images/organizers/wentao.jpg', 'PhD Student', 'University of Washington', 'https://wentaoyuan.github.io/'],
+  ['Ishika Singh', 'assets/images/organizers/ishika_singh.jpg', 'PhD Student', 'University of Southern California', 'https://ishikasingh.github.io/'],
+  ['Dieter Fox', 'assets/images/organizers/dieter.png', 'Professor', 'University of Washington', 'https://homes.cs.washington.edu/~fox/'],
 ]
 
 const accepted_presentations = [
