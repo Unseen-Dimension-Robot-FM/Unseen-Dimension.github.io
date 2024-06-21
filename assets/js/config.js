@@ -5,13 +5,10 @@ const workshop_date = `November 9, 2024`
 
 const talk_speaker_details = {
   'df': ['Dieter Fox', './assets/images/talks/dieter_fox.jpg', 'Professor', 'University of Washington', 'https://homes.cs.washington.edu/~fox/', 'Policy Representation for Robot Manipulation', ''],
-  'ke': ['Kiana Ehsani', './assets/images/talks/kiana_ehsani.jpg', 'Senior Research Scientist', 'Allen Institute for Artificial Intelligence', 'https://ehsanik.github.io/Home.html', 'Neural Object Representations for Grasping and Manipulation', ''],
-  'ag': ['Animesh Garg', './assets/images/talks/animesh_garg.jpg', 'Assistant Professor', 'Georgia Tech', 'https://animesh.garg.tech/', '', ''],
-  'wm': ['Wojciech Matusik', './assets/images/talks/wojciech_matusik.jpg', 'Professor', 'MIT', 'https://cdfg.mit.edu/wojciech', '', ''],
-  'ss': ['Shuran Song', './assets/images/talks/shuran_song.jpg', 'Assistant Professor', 'Stanford University', 'https://shurans.github.io/', 'Towards Home Robots: Open Vocabulary Mobile Manipulation in Unstructured Environments', ''],
-  'yl': ['Youngwoon Lee', './assets/images/talks/youngwoon_lee.jpg', 'Assistant Professor', 'Yonsei University', 'https://youngwoon.github.io/', 'Nonparametric Belief Propagation: Differentiable, Diagnosable, and Decisive', ''],
-  'sj': ['Stephen James', './assets/images/talks/stephen_james.jpg', '', 'Dyson Robotics', 'https://stepjam.github.io/', 'Nonparametric Belief Propagation: Differentiable, Diagnosable, and Decisive', ''],
-  'ds': ['Dorsa Sadigh', './assets/images/talks/dorsa_sadigh.jpeg', 'Assistant Professor', 'Stanford University', 'https://dorsa.fyi/', 'Nonparametric Belief Propagation: Differentiable, Diagnosable, and Decisive', ''],
+  'ke': ['Jianwei Yang', './assets/images/talks/jianwei.png', 'Principal Research Scientist', 'Microsoft', 'https://jwyang.github.io/', 'Neural Object Representations for Grasping and Manipulation', ''],
+  'ag': ['Xiaolong Wang', './assets/images/talks/xiaolong.jpg', 'Assistant Professor', 'UCSD', 'https://xiaolonw.github.io/', '', ''],
+  'wm': ['Yunzhu Li', './assets/images/talks/yunzhu.jpg', 'Assistant Professor', 'Columbia University', 'https://yunzhuli.github.io/', '', ''],
+  'sj': ['Harold Soh', './assets/images/talks/harold.jpg', '', 'NUS', 'https://haroldsoh.com/', 'Nonparametric Belief Propagation: Differentiable, Diagnosable, and Decisive', ''],
 }
 
 const organizers_details = [
